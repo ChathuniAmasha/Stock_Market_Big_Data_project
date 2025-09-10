@@ -1,0 +1,3 @@
+pytrends
+pandas
+google-cloud-firestore
