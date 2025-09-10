@@ -3,7 +3,7 @@
 A cloud‑hosted, interactive dashboard for exploring **real‑time stock market trends**, **ML‑based forecasts**, and **correlation/causation analysis** across major tickers. The system unifies traditional market data with alternative signals (e.g., Google Trends and macroeconomic indicators) and updates automatically on a fixed schedule.
 
 ## 🔗 Live Dashboard
-**Open the app:** https://YOUR-CLOUD-RUN-URL  <!-- Replace with your Cloud Run URL, e.g., https://stock-dashboard-abcde-uc.a.run.app -->
+**Open the app:** https://stock-dashboard-221826175680.us-central1.run.app/
 
 > If the link is restricted, ask the owner for access or an updated public URL.
 
